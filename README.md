@@ -1,5 +1,5 @@
 # RaySport Customer Management System
-
+![alt tag](https://raw.githubusercontent.com/mig0s/raysport/master/image/Screenshot%20from%202016-06-23%2008-53-49.png)
 The system was developed as an assignment for Application Programming With Java module of my Higher Diploma. MySQL was used as a database for this project. The information below is courtesy of TMC Academy, Singapore, and it is a detailed description of the system and functions implemented.
 
 ### Background
